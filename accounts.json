@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "First Account",
+    "balance": "1000.00"
+  },
+  {
+    "id": "2",
+    "name": "Second Account",
+    "balance": "1000.00"
+  },
+  {
+    "id": "3",
+    "name": "Third Account",
+    "balance": "1000.00"
+  },
+  {
+    "id": "4",
+    "name": "Forth Account",
+    "balance": "1000.00"
+  }
+]
+

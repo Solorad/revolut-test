@@ -111,7 +111,7 @@ public class AccountService {
             secondLock.unlock();
             firstLock.unlock();
         }
-        logger.info("Money were transferred. Balance of sender now is {}, balance of reciever is {}", from.getBalance(),
+        logger.info("Money were transferred. Balance of sender now is {}, balance of receiver is {}", from.getBalance(),
                 to.getBalance());
         return from;
     }
